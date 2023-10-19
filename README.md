@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning frontend
 
-- 📫 Instagramm: @gagarina_kris 
+- 📫 Instagram: @gagarina_kris 
 
